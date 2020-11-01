@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">میری پہلی درخواست</string>
+    <string name="feels_like_28_c">28 C کی طرح لگتا ہے</string>
+
+    <string name="clear">صاف</string>
+    <string name="pressure1">دباؤ</string>
+    <string name="wind">ہوا</string>
+    <string name="sunrise">طلوع آفتاب</string>
+    <string name="sunset">غروب آفتاب</string>
+    <string name="clouds">بادل</string>
+    <string name="humidity">نمی</string>
+    <string name="pressure2">دباؤ</string>
+    <string name="pressure3">دباؤ</string>
+</resources>

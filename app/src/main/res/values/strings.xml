@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My 1st Application</string>
+    <string name="feels_like_28_c">Feels Like 28 C</string>
+
+    <string name="clear">Clear</string>
+    <string name="pressure1">pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="clouds">Clouds</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure2">pressure</string>
+    <string name="pressure3">pressure</string>
 </resources>
